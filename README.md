@@ -12,7 +12,7 @@ ___
 </p>
 
 <p align="center">
-<a target="_blank" href="https://antei.codes/"><img alt="Antei Codes" src="https://img.shields.io/badge/VIKO API%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
+<a target="_blank" href="https://micans.botwa.id/"><img alt="Antei Codes" src="https://img.shields.io/badge/VIKO API%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
 <a target="_blank" href="https://api-xcoders.xyz/"><img alt="FXC7 TEAM" src="https://img.shields.io/badge/XCODERS TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
