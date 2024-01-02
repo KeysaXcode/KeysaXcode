@@ -19,9 +19,6 @@
 
 ---
 
-![Github Activity](https://github-readme-stats.vercel.app/api?username=KeysaXcode&theme=tokyonight&show_icons=true)
-
-
 ---
 
 <p align="center">
