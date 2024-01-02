@@ -19,7 +19,8 @@
 
 ---
 
-![Github Activity](https://metrics.lecoq.io/KeysaXcode?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Github Activity](https://github-readme-stats.vercel.app/api?username=KeysaXcode&theme=tokyonight&show_icons=true)
+
 
 ---
 
