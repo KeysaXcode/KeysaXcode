@@ -1,4 +1,5 @@
-### Hi I`am Galung 😊
+<h3>Hi I'm Galung <a href="/"><img src="https://media.tenor.com/Fl8mC4FA4cAAAAC/nailong.gif" width="50"></a></div></h3>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=30&font=Satisfy&color=%ffffff&center=true&vCenter=true&lines=Galung+Witanto.;20+Tahun;Sulawesi+Tengah)](https://git.io/typing-svg)
 [![Quotes](http://readme-typing-svg.herokuapp.com?size=23&font=Caveat&color=%ffffff&center=true&vCenter=true&lines=We+Where+Almost+Forever;Be+Almost;Is+The+Most+Paintful+Word)](https://git.io/typing-svg)
 
